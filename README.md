@@ -1,0 +1,2 @@
+# donkcfg
+its for funpay
